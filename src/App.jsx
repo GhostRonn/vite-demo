@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
-          Ron ilazi - jon kastrati
+          Ron ilazi -
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
